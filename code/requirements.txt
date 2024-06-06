@@ -1,0 +1,13 @@
+etils==1.7.0
+etuples==0.3.9
+Flask==2.2.5
+gensim==4.3.2
+nltk==3.8.1
+numpy==1.25.2
+pandas==2.0.3
+pip-tools==6.13.0
+pymorphy3==2.0.1
+python-utils==3.8.2
+scikit-learn==1.2.2
+scipy==1.11.4
+spacy==3.7.4
