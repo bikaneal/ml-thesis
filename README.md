@@ -2,7 +2,9 @@
 
 Деплой: Содержимое папки Code используется при сборке; подтягиваются все зависимости с requirements.txt, копируются файлы с папки Data, которые используются при запуске приложения.
 
-Classification.ipynb — ноутбук с данными обучения. Также располагается по ссылке: https://colab.research.google.com/drive/1NTuJPKFlEQdd1mFusIiCiKd9NcG-Zppu?usp=sharing
+classification.ipynb — ноутбук с данными обучения. Также располагается по ссылке: https://colab.research.google.com/drive/1NTuJPKFlEQdd1mFusIiCiKd9NcG-Zppu?usp=sharing.
+
+request.ipynb — ноутбук, связывающий приложение Amvera (сервис, где располагается обученная модель), и необходимый для обработки аудио/видеофайл Также доступен по ссылке: https://colab.research.google.com/drive/1CAvn19iskEm2XmmmWoIfAIBhdG_UZR3a?usp=sharing.
 
 # Процесс работы:
 - Необходима запись групповой работы (аудио/видео файл). Она обрабатывается посредством API транскрибатора AssemblyAI и выводится в виде текста transcript.txt;
